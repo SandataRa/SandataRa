@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hello, it's Sandra! 👋
+
+I’m a freelance Data Engineer with +7 years of experience in diverse industries (Finance / Technology / Automotive / Media).  
+I'm sharing my journey in data engineering and automation. 
+
+Let's collaborate together! 😄
 
 <!--
 **SandataRa/SandataRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
