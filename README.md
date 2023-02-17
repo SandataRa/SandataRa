@@ -1,6 +1,6 @@
 ### Hello, it's Sandra! 👋
 
-I’m a freelance Data Engineer with +7 years of experience in diverse industries (Finance / Technology / Automotive / Media).  
+I'm a Data Engineer with 7+ years of experience working for multiple companies.  
 I'm sharing my journey in data engineering and automation. 
 
 Let's collaborate together! 😄
