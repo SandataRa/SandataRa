@@ -1,10 +1,11 @@
 ### Hello, it's Sandra! 👋
 
-I'm a Data Engineer with 7+ years of experience working for multiple companies.  
-I'm sharing my journey in data engineering and automation. 
+Passionate about analytics, I have applied my skills in actively contributing to the creation of end-to-end analytical platforms—from data ingestion to visualization for the past 6 years. I'm sharing my journey in Business Intelligence and Data Engineering. 
 
-Let's collaborate together! 😄
+🌱 I’m currently learning Azure DevOps and Snowflake.  
+📫 How to reach me: **sandratra@sandataconsulting.com**  
 
+Let's collaborate along the journey!
 <!--
 **SandataRa/SandataRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
