@@ -1,6 +1,6 @@
 ### Hello, it's Sandratra! 👋
 
-Passionate about BI, data & analytics, I have applied my skills in actively contributing to the creation of end-to-end analytical platforms—from data ingestion to visualization for the past 6 years. I'm sharing my journey in Business Intelligence and Data Engineering. 
+Passionate about BI, data & analytics, I have applied my skills in actively contributing to the creation of end-to-end analytical platforms, from data ingestion to visualization for the past 7 years. I'm sharing my journey in Business Intelligence and Data Engineering. 
 
 🌱 I’m currently learning Microsoft Fabric & Azure.  
 📫 How to reach me: **sandratra@sandataconsulting.com**  
