@@ -2,7 +2,8 @@
 
 Passionate about BI, data & analytics, I have applied my skills in actively contributing to the creation of end-to-end analytical platforms, from data ingestion to visualization for the past 7 years. I'm sharing my journey in Business Intelligence and Data Engineering. 
 
-🌱 I’m currently learning Microsoft Fabric & Azure.  
+🔭 I’m currently working on Microsoft Fabric & Azure.  
+🌱 I’m currently learning Databricks and Spark.  
 ⚡ Fun fact: I'm a fan of Dwayne Johnson (aka The Rock)
 
 Let's collaborate along the journey!
