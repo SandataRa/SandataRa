@@ -1,10 +1,10 @@
 ### Hello, it's Sandratra! 👋
 
-Passionate about BI, data & analytics, I have applied my skills in actively contributing to the creation of end-to-end analytical platforms, from data ingestion to visualization for the past 7 years. I'm sharing my journey in Business Intelligence and Data Engineering. 
+Passionate about BI, data & analytics, I have applied my skills in actively contributing to the creation of end-to-end analytical platforms, from data ingestion to visualization, for the past +8 years. I'm sharing my journey in IT engineering from data solutions to AI applications. 
 
-🔭 I’m currently working on Azure & GCP.  
-🌱 I’m currently learning Databricks.  
-⚡ Fun fact: I'm a fan of Dwayne Johnson (aka The Rock)
+🔭 I’m currently working on Azure & MS Fabric & Databricks.  
+🌱 I’m currently learning ADK & Terraform.  
+⚡ Fun fact: I'm a fan of Dwayne Johnson.
 
 Let's collaborate along the journey!
 <!--
