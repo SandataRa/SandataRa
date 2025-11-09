@@ -1,4 +1,4 @@
-### Hello, it's Sandratra! 👋
+### Hello, it's Sand! 👋
 
 Passionate about BI, data & analytics, I have applied my skills in actively contributing to the creation of end-to-end analytical platforms, from data ingestion to visualization, for the past +8 years. I'm sharing my journey in IT engineering from data solutions to AI applications. 
 
