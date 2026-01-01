@@ -4,7 +4,7 @@ Passionate about BI, data & analytics, I have applied my skills in actively cont
 
 🔭 I’m currently working on Azure & MS Fabric & Databricks.  
 🌱 I’m currently learning ADK & Terraform.  
-⚡ Fun fact: I'm a fan of Dwayne Johnson.
+⚡ Fun fact: I'm a fan of One Piece.
 
 Let's collaborate along the journey!
 <!--
